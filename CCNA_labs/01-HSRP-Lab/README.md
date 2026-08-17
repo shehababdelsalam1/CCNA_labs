@@ -1,6 +1,6 @@
 # 01 - Hot Standby Router Protocol (HSRP) Lab
 
-![HSRP Topology](./hsrp_topology.png)
+[HSRP Topology](./hsrp_topology.png)
 
 ## Overview
 This lab demonstrates the configuration and verification of HSRP (First Hop Redundancy Protocol) on Cisco devices using GNS3.
